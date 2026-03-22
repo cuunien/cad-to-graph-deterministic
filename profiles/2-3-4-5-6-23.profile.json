@@ -1,0 +1,1 @@
+{"part_id": "2-3-4-5-6-23", "timings_sec": {"read_step": 0.00971749983727932, "enumerate_faces": 2.350006252527237e-05, "build_adjacency": 0.0003293999470770359, "extract_features": 0.0011973001528531313, "map_labels": 0.0001859001349657774, "sanity_checks": 0.0001501000951975584, "total": 0.011603700229898095}}
