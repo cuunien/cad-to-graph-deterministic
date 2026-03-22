@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cad2graph"
+version = "0.1.0"
+description = "CAD-to-Graph Conversion & Audit Framework"
+readme = "cad2graph/README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[tool.setuptools]
+packages = ["cad2graph"]
